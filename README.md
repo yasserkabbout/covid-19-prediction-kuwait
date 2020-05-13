@@ -10,6 +10,10 @@ can be changed to any other number of days.
 
 ![model figure](Figures/predictivemodelkuwait.png)
 
+## Similar Model for Italy
+
+![Italy model figure](/Figures/predictive%20model%20italy.png)
+
 ## Confirmed Cases
 
 ![Confirmed cases per day figure](/Figures/casesperdaykuwaitplot.png)
