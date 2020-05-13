@@ -4,7 +4,7 @@
 
 ![all cases plot figure](Figures/Ncovid%2019%20cases%20plot.png)
 
-## Trends (Next **20 days**)
+## Trend (Next **20 days**)
 
 can be changed to any other number of days.
 
