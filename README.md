@@ -8,7 +8,7 @@
 
 can be changed to any other number of days.
 
-![model figure](Figures/predictivemodelkuwait.png)
+![model figure](Figures/Confirmed%20cases%20prediction%2020%20days.png)
 
 ## Similar Model for Italy
 
